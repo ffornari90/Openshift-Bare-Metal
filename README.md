@@ -233,7 +233,7 @@
    Copy HAProxy config
 
    ```bash
-   \cp ~/openshift-bare-metal/haproxy.cfg /etc/haproxy/haproxy.cfg
+   cp ~/openshift-bare-metal/haproxy.cfg /etc/haproxy/haproxy.cfg
    ```
 
    Configure the Firewall
