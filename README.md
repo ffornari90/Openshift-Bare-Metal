@@ -140,8 +140,6 @@
    export KUBE_EDITOR="vim"
    ```
 
-1. Setup firewalld
-
 1. Install bind-utils
 
    ```bash
